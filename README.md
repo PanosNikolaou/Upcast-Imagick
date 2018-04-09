@@ -1,1 +1,0 @@
-# Upcast-Imagick
